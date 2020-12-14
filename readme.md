@@ -19,3 +19,8 @@ En este archivo se creara la documentación de nuestra aplicación
 5. Elemento 5
 6. Elemento 6
 
+### Equipo de trabajo
+
+1. Nombre 1
+2. Nombre 2
+3. Nombre 3
