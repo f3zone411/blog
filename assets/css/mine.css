@@ -1,0 +1,35 @@
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+.navbar-brand {
+    width: 2.5rem;
+}
+
+.navbar-brand svg {
+  fill: #ffffff;
+}
+
+.logo-container {
+  width: 5rem;
+}
+
+.logo-container svg {
+  fill: #343a40;
+}
+
+.principal {
+  margin-top: 7.5rem;
+}
+
+.sfsi_wDiv {
+  width: 100% !important;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: -10rem;
+  left: 0;
+}
