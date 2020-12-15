@@ -3,6 +3,9 @@ body {
   min-height: 100vh;
 }
 
+p{
+  font-style: italic;
+}
 .navbar-brand {
     width: 2.5rem;
 }
