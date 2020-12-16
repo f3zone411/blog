@@ -24,3 +24,11 @@ En este archivo se creara la documentación de nuestra aplicación
 1. Nombre 1
 2. Nombre 2
 3. Nombre 3
+
+## Paso a paso
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
